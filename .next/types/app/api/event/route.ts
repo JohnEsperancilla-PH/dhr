@@ -1,4 +1,4 @@
-// File: C:\CSS-DHR\app\api\event\route.ts
+// File: C:\dhr\app\api\event\route.ts
 import * as entry from '../../../../../app/api/event/route.js'
 import type { NextRequest } from 'next/server.js'
 
